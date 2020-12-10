@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 ## "Hello World"  👋🌎
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/st%C3%AAnio-amorim-38b9ba174)](https://www.linkedin.com/in/st%C3%AAnio-amorim-38b9ba174)
 
-My name is Stênio, and I'm from Pernambuco, Brazil.
+My name is Stênio, and I'm from Pernambuco, Brazil. 📍
 
-Loving programming and every day much more excited about it. 🥰🤩🧠💪
+Loving programming and every day much more excited about it. 🥰🤩
 
 ## Fullstack Student :man_technologist:
 
-#### Languages and Tools (w/ practice):
+#### Languages and Tools (w/ practice) 🧠💪
 
 <img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
 <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -36,7 +36,7 @@ Loving programming and every day much more excited about it. 🥰🤩🧠💪
 <img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="36px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /><br>-->
 
-#### I'll learn soon:
+#### I'll learn soon ⏳⏲️
 <img align="left" alt="React" width="38px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Vue" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img align="left" alt="MongoDB" width="38px" src="https://img.icons8.com/color/452/mongodb.png" />

@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 
 ## "Hello World"  👋🌎
-My name is Stênio, and I'm from Pernambuco, Brazil. Learning new things every day and focused on my goals. 💪🧠
+My name is Stênio, and I'm from Pernambuco, Brazil.
 
-Loving programming and much more excited about it. 🥰🤩
+Loving programming and every day much more excited about it. 🥰🤩🧠💪
 
 ## Fullstack Student :man_technologist:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/st%C3%AAnio-amorim-38b9ba174)](https://www.linkedin.com/in/st%C3%AAnio-amorim-38b9ba174)
 #### Languages and Tools (w/ practice):

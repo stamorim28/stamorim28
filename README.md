@@ -15,11 +15,14 @@ Here are some ideas to get you started:
 -->
 
 ## "Hello World"  👋🌎
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/st%C3%AAnio-amorim-38b9ba174)](https://www.linkedin.com/in/st%C3%AAnio-amorim-38b9ba174)
+
 My name is Stênio, and I'm from Pernambuco, Brazil.
 
 Loving programming and every day much more excited about it. 🥰🤩🧠💪
 
-## Fullstack Student :man_technologist:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/st%C3%AAnio-amorim-38b9ba174)](https://www.linkedin.com/in/st%C3%AAnio-amorim-38b9ba174)
+## Fullstack Student :man_technologist:
+
 #### Languages and Tools (w/ practice):
 
 <img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 

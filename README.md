@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Front-End Developer :man_technologist:
  <div>
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stamorim28&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stamorim28&langs_count=7&theme=algolia"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stamorim28&hide=html&langs_count=7&theme=algolia"/>
 </div>
   
 <div style="display: inline_block"><br>

@@ -17,20 +17,12 @@ Here are some ideas to get you started:
 # Stênio aqui! 👋🌎
 
 ### Front-End Developer :man_technologist:
- <div>
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stamorim28&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stamorim28&hide=html&langs_count=7&theme=algolia"/>
-</div>
+
+<a href="https://github.com/stamorim28/?"><img alt="Stenio Github Stats" src="https://github-readme-stats.vercel.app/api?username=stamorim28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/stamorim28/?"><img alt="Stenio GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=stamorim28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" /></a>
+<a href="https://github.com/stamorim28/?"><img alt="Stenio Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stamorim28&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &mdash;
-  <img align="center" alt="CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &mdash;
-  <img align="center" alt="SASS" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"> &mdash;
-  <img align="center" alt="Js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> &mdash;
-  <img align="center" alt="Vue" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
-</div>
-  
-  ##
+##
   
   <div> 
     <a href="https://www.linkedin.com/in/st%C3%AAnio-amorim-38b9ba174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 # Stênio aqui! 👋🌎
 
 ### Front-End Developer :man_technologist:
+<!-- <a href="https://github.com/antonkomarev/github-profile-views-counter">
+   <img align="left" src="https://komarev.com/ghpvc/?username=stamorim28&style=for-the-badge">
+</a> -->
 
 <a href="https://github.com/stamorim28/?"><img alt="Stenio Github Stats" src="https://github-readme-stats.vercel.app/api?username=stamorim28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/stamorim28/?"><img alt="Stenio GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=stamorim28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" /></a>

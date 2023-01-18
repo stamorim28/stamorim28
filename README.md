@@ -23,7 +23,11 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/stamorim28/?"><img alt="Stenio Github Stats" src="https://github-readme-stats.vercel.app/api?username=stamorim28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/stamorim28/?"><img alt="Stenio GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=stamorim28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" /></a>
+
+<!-- ![Metrics](https://metrics.lecoq.io/stamorim28) -->
+<div style="display: block">
 <a href="https://github.com/stamorim28/?"><img alt="Stenio Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stamorim28&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
